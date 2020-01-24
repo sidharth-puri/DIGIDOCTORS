@@ -1,0 +1,19 @@
+
+.sid
+{
+    padding:0px 100px 100px 100px;
+    font-family: britannic;
+    color:green;
+}
+img {
+    border-radius: 50%;
+  }
+  .nis
+  {
+      background-color:green;
+  }
+  .sanchit
+  {
+      color:black;
+  }
+  #custom td:hover {background-color: greenyellow;}

@@ -1,0 +1,14 @@
+.skol
+{
+ width:700px;
+ height:700px;
+ border-style: inset;
+ margin: auto;
+ z-index: 0; 
+}
+.kok
+{
+    font-size: 80px;
+    font-family: britannic;
+    color:orange;
+}

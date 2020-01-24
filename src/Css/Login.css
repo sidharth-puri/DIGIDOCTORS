@@ -1,0 +1,52 @@
+.akash fieldset {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+    width:600px;
+    height:250px;
+    margin: auto;
+
+    border: 3px solid green;
+    padding: 10px;
+  }
+ .akash label{
+      font-size: 20px;
+      
+  }
+  .akash input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .akash input[type=submit] {
+    width: 100%;
+    background-color: green;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .akash input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .key
+  {
+      color:red;
+  }
+  .akash legend{
+      font-size: 30px;
+  }

@@ -1,0 +1,32 @@
+.trim 
+{
+    color:orangered;
+    font-family:britannic;
+    font-size: 100px;
+    padding:0px;
+    
+}
+.sid
+{
+    padding:0px 100px 100px 100px;
+    font-family: britannic;
+    color:green;
+}
+img {
+    border-radius: 50%;
+  }
+  .ol
+  {
+      background-color: rgb(255, 136, 0);
+  }
+  .sanchit
+  {
+      color:black;
+  }
+  .ket
+  {
+        width: "1000px";
+        height: "550px";
+        background-image: url("/Components/allopathic.jpg");
+  }
+  #custom td:hover {background-color: greenyellow;}

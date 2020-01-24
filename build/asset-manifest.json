@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.380bdba6.chunk.css",
+    "main.js": "/static/js/main.f019e638.chunk.js",
+    "main.js.map": "/static/js/main.f019e638.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aac90fa1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aac90fa1.js.map",
+    "static/js/2.3959f85c.chunk.js": "/static/js/2.3959f85c.chunk.js",
+    "static/js/2.3959f85c.chunk.js.map": "/static/js/2.3959f85c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eea52efe55a7b2d9d28ed8c54f611ad3.js": "/precache-manifest.eea52efe55a7b2d9d28ed8c54f611ad3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.380bdba6.chunk.css.map": "/static/css/main.380bdba6.chunk.css.map",
+    "static/js/2.3959f85c.chunk.js.LICENSE": "/static/js/2.3959f85c.chunk.js.LICENSE",
+    "static/media/about.jpg": "/static/media/about.52032580.jpg",
+    "static/media/allopathic.jpg": "/static/media/allopathic.0edb0c43.jpg",
+    "static/media/ayurvedic.jpg": "/static/media/ayurvedic.fdf2aecc.jpg",
+    "static/media/butcher.jpg": "/static/media/butcher.5905fd1e.jpg",
+    "static/media/homeopathy.jpg": "/static/media/homeopathy.ce81208b.jpg",
+    "static/media/main.jpg": "/static/media/main.09a22b34.jpg",
+    "static/media/wall3.jpg": "/static/media/wall3.70e1c8c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aac90fa1.js",
+    "static/js/2.3959f85c.chunk.js",
+    "static/css/main.380bdba6.chunk.css",
+    "static/js/main.f019e638.chunk.js"
+  ]
+}

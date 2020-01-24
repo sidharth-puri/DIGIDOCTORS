@@ -1,0 +1,28 @@
+.pra {
+    display: block;
+    width: 10%;
+    border: none;
+    background-color: yellow;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+ 
+  .shah fieldset{
+      width:700px;
+      height:600px;
+  }
+  select{
+      background-color: white;
+      color:black;
+  }
+ 
+  .asim
+  {
+    background-color: green;
+    width:200px;
+    height: 40px;  
+    box-sizing: border-box;
+  }
+

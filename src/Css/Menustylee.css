@@ -1,0 +1,52 @@
+body {margin:1000;padding:1000;} 
+ .aman ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+  top: 40px;
+  width: 100%;
+  height:140px;
+  text-align: right;
+}
+.chi img
+{
+  padding:41px;
+}
+.ch img{
+  padding:40px;
+  
+}
+.chir div
+{
+
+ font-family: Britannic;
+ /* color:rgb(60, 60, 60); */
+ background-image: linear-gradient(to right, black,grey);   
+ -webkit-background-clip: text;
+ -moz-background-clip: text; 
+ background-clip: text;
+ color: transparent;
+ font-size:80px;
+ padding:40px;
+ font-style: italic;
+}
+.chir sub{
+  font-size:40px;
+}
+.aman li{
+  float :left;
+  font-size:20px;
+}
+
+ .aman a {
+  display: block;
+  color:grey;
+  text-align: center;
+  padding: 15px 10px;
+  text-decoration: none;
+}
+ .aman li a:hover:not(.active) {
+  background-color: #111;
+}

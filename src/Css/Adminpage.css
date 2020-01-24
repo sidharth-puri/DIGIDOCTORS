@@ -1,0 +1,42 @@
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: burlywood;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  td{
+      font-size:20px;
+  }
+  th{
+      font-size:25px;
+  }
+  .akba
+  {
+      color:green;
+  }
+  .mani
+  {
+      color:orange;
+  }
+  button{
+     background-color:orange;
+     align:right;
+  }
+  

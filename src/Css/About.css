@@ -1,0 +1,30 @@
+.mam
+{
+    font-size: 70px;
+    color:black;
+    font-family:Cooper;
+}
+.jack {
+    font-size:25px;
+    list-style-type: none;
+    text-align: justify;
+    align:center;
+    height:100px;
+    border-collapse: collapse;
+    border: 0px ;
+    
+}
+.jack td{
+    color:black;
+    border: 0px ;
+}
+.jack tr{
+    background-color:rgba(167, 183, 187, 0.828);
+    border: 0px ;
+}
+
+.sue
+{
+    border-radius: 8px;
+    height:155px;
+}
